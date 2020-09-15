@@ -1,10 +1,7 @@
-### Hi there 👋
-
-
-<p  align="center"><img height="500" src = "https://github.com/Bhard27/Bhard27/blob/master/mee.gif"></p>
-
 [![Gmail Badge](https://img.shields.io/badge/-sepehr.r201400@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sepehr.r201400@gmail.com)](mailto:sepehr.r201400@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-SepehrRafiei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sepehr-rafiei/)](https://www.linkedin.com/in/sepehr-rafiei/)
+
+# Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 Here are some ideas to get you started:
 
