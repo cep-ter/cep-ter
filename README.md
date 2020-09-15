@@ -12,12 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Software Engineer
 
 
-
-<div align="center">
   
-<h3>Languages and Framework:</h3>
-
-
+**Tools and Languages**
+<br>
 <img src="https://img.icons8.com/color/96/000000/c-programming.png" alt="c" width="40" height="40"/>
 <img src="https://img.icons8.com/color/96/000000/python.png" alt="python" width="40" height="40"/> 
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="cpp" width="40" height="40"/>
@@ -29,5 +26,10 @@ Here are some ideas to get you started:
 <img src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.svg" width="40" height="40"/>
 </br>
 
+**GitHub Stats**
 
-</div>
+![Sepehr's github stats](https://github-readme-stats.vercel.app/api?username=cep-ter&count_private=true&show_icons=true&theme=chartreuse-dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cep-ter&layout=compact)
+
+![profile views](https://komarev.com/ghpvc/?username=cep-ter&color=brightgreen&style=flat-square)
