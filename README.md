@@ -17,12 +17,16 @@ Here are some ideas to get you started:
   
 <h3>Languages and Framework:</h3>
 
-<img align="center" alt="Golang" width="40px" src="https://blog.golang.org/lib/godoc/images/go-logo-blue.svg" />
-<img align="center" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="center" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/240px-Python.svg.png" />
-<img align="center" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="center" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="center" alt="Kubernetes" width="30px" src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.svg" />
+
+<img src="https://img.icons8.com/color/96/000000/c-programming.png" alt="c" width="40" height="40"/>
+<img src="https://img.icons8.com/color/96/000000/python.png" alt="python" width="40" height="40"/> 
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="cpp" width="40" height="40"/>
+<img src="https://img.icons8.com/color/96/000000/django.png" alt="django" width="40" height="40"/> 
+<img src="https://blog.golang.org/lib/godoc/images/go-logo-blue.svg" alt="golang" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vs" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="40" height="40" />
+<img src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.svg" width="40" height="40"/>
 </br>
 
 
